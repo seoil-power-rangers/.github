@@ -117,7 +117,7 @@
 
 ## 👥 팀
 
-| (이름) | (이름) | (이름) | (이름) |
+| 고현석 | 이지민 | 박희정 | 이종원 |
 | :---: | :---: | :---: | :---: |
 | [@kohyunseok518](https://github.com/kohyunseok518) | [@J2MIN4452](https://github.com/J2MIN4452) | [@Heejeong22](https://github.com/Heejeong22) | [@jongwon-810](https://github.com/jongwon-810) |
 | ✨ Team Leader · BE Lead<br>백엔드 설계, AWS 배포·운영 | FE Lead<br>콕·채팅 화면, 요청 구조 | BE · FE<br>랜덤 미션, 관리자 화면 연동 | FE<br>가입·로그인·관리자 화면 |
